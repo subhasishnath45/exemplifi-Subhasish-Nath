@@ -1,0 +1,20 @@
+{
+  "name": "assessment-frontend-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile-watch:sass": "sass --watch scss/style.scss:css/style.css",
+    "copy:bootstrap-js": "cp node_modules/bootstrap/dist/js/bootstrap.bundle.min.js js/lib/"
+  },
+  "devDependencies": {
+    "sass": "^1.89.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.6"
+  }
+}
