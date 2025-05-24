@@ -11886,7 +11886,7 @@ body {
     content: "";
     position: absolute;
     top: 40px;
-    right: clamp(640px, 152.8571px + 49.1071vw, 860px);
+    right: clamp(675px, 187.8571px + 49.1071vw, 895px);
     display: inline-block;
     border-right: 25px solid transparent;
     border-left: 25px solid transparent;
@@ -11899,7 +11899,7 @@ body {
     content: "";
     position: absolute;
     top: 38px;
-    right: clamp(640px, 152.8571px + 49.1071vw, 860px);
+    right: clamp(675px, 187.8571px + 49.1071vw, 895px);
     display: inline-block;
     border-right: 25px solid transparent;
     border-left: 25px solid transparent;
@@ -11915,7 +11915,7 @@ body {
     content: "";
     position: absolute;
     top: 20px;
-    right: clamp(240px, -258.2143px + 50.2232vw, 465px);
+    right: clamp(280px, -207.1429px + 49.1071vw, 500px);
     display: inline-block;
     border-right: 25px solid transparent;
     border-left: 25px solid transparent;
@@ -11928,7 +11928,7 @@ body {
     content: "";
     position: absolute;
     top: 18px;
-    right: clamp(240px, -258.2143px + 50.2232vw, 465px);
+    right: clamp(280px, -207.1429px + 49.1071vw, 500px);
     display: inline-block;
     border-right: 25px solid transparent;
     border-left: 25px solid transparent;
@@ -11944,7 +11944,7 @@ body {
     content: "";
     position: absolute;
     top: 20px;
-    right: clamp(104px, -396.4286px + 50.4464vw, 330px);
+    right: clamp(146px, -338.9286px + 48.8839vw, 365px);
     display: inline-block;
     border-right: 25px solid transparent;
     border-left: 25px solid transparent;
@@ -11957,7 +11957,7 @@ body {
     content: "";
     position: absolute;
     top: 18px;
-    right: clamp(104px, -396.4286px + 50.4464vw, 330px);
+    right: clamp(146px, -338.9286px + 48.8839vw, 365px);
     display: inline-block;
     border-right: 25px solid transparent;
     border-left: 25px solid transparent;
